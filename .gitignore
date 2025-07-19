@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Secrets
+.env
+config/secrets.py
+
+*.db
+*.sqlite3
+*.log
+logs/
+.vscode/settings.json
+.DS_Store
+Thumbs.db
